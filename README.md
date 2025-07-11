@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmritCodeCraft/AmritCodeCraft/main/assets/header-wave.png" />
+  <img src="https://raw.githubusercontent.com/AmritCodeCraft/AmritCodeCraft/main/assets/header-purple.png" alt="header wave" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Amrit Kumar Prasad</h1>
 <h3 align="center">💻 Full Stack Developer | 📊 Data Analyst | 🎯 Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C97AFF&center=true&vCenter=true&width=500&lines=Creative+Tech+Solutions;MERN+%7C+Python+%7C+ML+%7C+Data;Learning+%26+Building+Continuously" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB70F9&center=true&vCenter=true&width=500&lines=Creative+Tech+Solutions;MERN+%7C+Python+%7C+ML+%7C+Data;Learning+%26+Building+Continuously" />
 </p>
 
 ---
@@ -14,9 +14,9 @@
 ## 🧠 About Me
 
 - 🎓 **BCA Graduate**
-- 💼 Skilled in MERN stack, data analysis, and ML-based solutions
-- 🧠 Passionate about AI, automation & real-time apps
-- 💡 Striving to bridge data & development with creativity
+- 🧪 Passionate about tech, data & automation
+- 💼 Experienced in MERN stack, Python, and ML
+- 🌐 Love building real-world, impactful solutions
 
 ---
 
@@ -28,13 +28,16 @@
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projects
 
 - 🛂 **Viza Verify** – Visa Management & Verification System (MERN)
-- 🍅 **Tomato** – Zomato-style food ordering platform
-- 🌐 **Immigration Website** – Professional site using Bootstrap
-- 🏥 **Lifelynk** – Doctor–Patient record manager
-- 📈 **HR Dashboard**, 🧠 **Turnover Predictor**, 🍷 **Wine Quality**, 🕵️ **Fraud Detection**
+- 🍅 **Tomato** – Food Ordering Web App
+- 🌐 **Immigration Website** – Professional UI with Bootstrap
+- 🏥 **Lifelynk** – Doctor–Patient Management
+- 📊 **HR Analytics Dashboard**
+- 🧠 **Employee Turnover Prediction**
+- 🍷 **Wine Quality ML**
+- 🕵️ **Fraud Detection System**
 
 ---
 
@@ -50,7 +53,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -73,10 +76,10 @@
 ## 📜 License
 
 > © 2025 Amrit Kumar Prasad  
-> All rights reserved. Fork with credit. ✨
+> All rights reserved. Share with credit 🙌
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmritCodeCraft/AmritCodeCraft/main/assets/footer-wave.png" />
+  <img src="https://raw.githubusercontent.com/AmritCodeCraft/AmritCodeCraft/main/assets/footer-purple.png" alt="footer wave" />
 </p>
