@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AA00FF,EE82EE&height=200&section=header&text=Hey%20there%20👋&fontColor=ffffff&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Hey%20there%20👋&fontColor=ffffff&fontSize=40&animation=twinkling" />
 </p>
 
 <h1 align="center">I'm Amrit Kumar Prasad</h1>
@@ -14,30 +14,27 @@
 ## 🧠 About Me
 
 - 🎓 **BCA Graduate**
-- 🧠 Tech Explorer passionate about innovation
-- 💼 Skilled in MERN stack, Python, and Machine Learning
-- 🌐 Building impactful real-world solutions
+- 💡 Tech enthusiast focused on web & data
+- ⚙️ Skilled in MERN, Python, ML, and automation
+- 🌐 Building real-world problem-solving projects
 
 ---
 
-## ⚙️ Tech Stack I Use
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,mysql,python,php,java,c,cpp,bootstrap,tailwind,git,github,vscode,figma,xd,linux,postman,tableau,pandas,numpy,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,mysql,python,php,java,c,cpp,bootstrap,tailwind,git,github,vscode,linux,postman,tableau,pandas,numpy,scikit-learn" />
 </p>
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-- 🛂 **Viza Verify** – Visa Management & Verification System (MERN)
-- 🍅 **Tomato** – Food Ordering Web App (Frontend + Cart + Filters)
-- 🌐 **Immigration Website** – Clean UI with Bootstrap
-- 🏥 **Lifelynk** – Doctor–Patient Management System
-- 📊 **HR Analytics Dashboard** *(Tableau)*
-- 🧠 **Employee Turnover Prediction** *(ML Model)*
-- 🍷 **Wine Quality Prediction** *(Regression ML)*
-- 🕵️ **Fraud Detection System** *(Classification with Python)*
+- 🛂 **Viza Verify** – Visa Management System (MERN)
+- 🍅 **Tomato** – Food Ordering App
+- 🌐 **Immigration Site** – Clean UI with Bootstrap
+- 🏥 **Lifelynk** – Doctor–Patient Records
+- 📊 **HR Dashboard**, 🧠 **Turnover Prediction**, 🍷 **Wine ML**, 🕵️ **Fraud Detection**
 
 ---
 
@@ -52,8 +49,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="47%" src="https://github-readme-streak-stats.demolab.com?user=AmritCodeCraft&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -62,7 +59,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="mailto:kumaramrit945@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -75,11 +72,11 @@
 
 ## 📜 License
 
-> © 2025 Amrit Kumar Prasad  
-> All rights reserved. Feel free to fork and explore with credit 🙌
+> © 2025 Amrit Kumar Prasad — All rights reserved.  
+> Feel free to fork and explore with credit 🙌
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AA00FF,EE82EE&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=140&section=footer" />
 </p>
