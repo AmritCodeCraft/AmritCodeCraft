@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmritCodeCraft/AmritCodeCraft/main/assets/header-purple.png" alt="header wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Hey%20there%20👋&fontColor=ffffff&fontSize=40&animation=twinkling" />
 </p>
 
-<h1 align="center">👋 Hey, I'm Amrit Kumar Prasad</h1>
+<h1 align="center">I'm Amrit Kumar Prasad</h1>
 <h3 align="center">💻 Full Stack Developer | 📊 Data Analyst | 🎯 Creative Technologist</h3>
 
 <p align="center">
@@ -81,5 +81,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmritCodeCraft/AmritCodeCraft/main/assets/footer-purple.png" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE,BA55D3&height=140&section=footer" />
 </p>
