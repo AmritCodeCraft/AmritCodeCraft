@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=9,11&section=header&text=Welcome%20to%20My%20GitHub&fontSize=38&fontAlign=50&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/AmritCodeCraft/AmritCodeCraft/main/assets/header-wave.png" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Amrit Kumar Prasad</h1>
 <h3 align="center">💻 Full Stack Developer | 📊 Data Analyst | 🎯 Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D66EFF&center=true&vCenter=true&width=500&lines=Creative+Tech+Solutions;Full+Stack+%7C+Data+%7C+ML;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C97AFF&center=true&vCenter=true&width=500&lines=Creative+Tech+Solutions;MERN+%7C+Python+%7C+ML+%7C+Data;Learning+%26+Building+Continuously" />
 </p>
 
 ---
@@ -14,27 +14,27 @@
 ## 🧠 About Me
 
 - 🎓 **BCA Graduate**
-- 💼 Full Stack Developer with strong data analysis experience
-- 🌐 Exploring AI, automation, visualization & IoT
-- 💡 Passionate about building digital experiences with impact
+- 💼 Skilled in MERN stack, data analysis, and ML-based solutions
+- 🧠 Passionate about AI, automation & real-time apps
+- 💡 Striving to bridge data & development with creativity
 
 ---
 
-## ⚙️ Tech Stack (All Tools I Use)
+## ⚙️ Tech Stack I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,php,java,c,cpp,git,github,vscode,figma,xd,tableau,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,express,mongodb,mysql,python,php,java,c,cpp,bootstrap,tailwind,git,github,vscode,figma,xd,linux,postman,tableau,pandas,numpy,scikit-learn" />
 </p>
 
 ---
 
-## 💼 Highlighted Projects
+## 💼 Featured Projects
 
-- 🛂 **Viza Verify** – Visa Management System *(MERN Stack)*
-- 🍅 **Tomato** – Food Ordering App *(UI + Backend)*
-- 🌐 **Immigration Website** – *(Responsive Bootstrap UI)*
-- 🏥 **Lifelynk** – Doctor–Patient Management *(PHP + MySQL)*
-- 📈 **HR Dashboard**, 🧠 **ML Turnover Predictor**, 🍷 **Wine ML**, 🕵️‍♂️ **Fraud Detection System**
+- 🛂 **Viza Verify** – Visa Management & Verification System (MERN)
+- 🍅 **Tomato** – Zomato-style food ordering platform
+- 🌐 **Immigration Website** – Professional site using Bootstrap
+- 🏥 **Lifelynk** – Doctor–Patient record manager
+- 📈 **HR Dashboard**, 🧠 **Turnover Predictor**, 🍷 **Wine Quality**, 🕵️ **Fraud Detection**
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:kumaramrit945@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -73,10 +73,10 @@
 ## 📜 License
 
 > © 2025 Amrit Kumar Prasad  
-> All rights reserved. Share with credit 🙌
+> All rights reserved. Fork with credit. ✨
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=11,9&section=footer" />
+  <img src="https://raw.githubusercontent.com/AmritCodeCraft/AmritCodeCraft/main/assets/footer-wave.png" />
 </p>
