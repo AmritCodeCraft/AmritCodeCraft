@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=200&section=header&text=Hey%20there%20👋&fontColor=ffffff&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AA00FF,EE82EE&height=200&section=header&text=Hey%20there%20👋&fontColor=ffffff&fontSize=40&animation=twinkling" />
 </p>
 
 <h1 align="center">I'm Amrit Kumar Prasad</h1>
@@ -14,9 +14,9 @@
 ## 🧠 About Me
 
 - 🎓 **BCA Graduate**
-- 🧪 Passionate about tech, data & automation
-- 💼 Experienced in MERN stack, Python, and ML
-- 🌐 Love building real-world, impactful solutions
+- 🧠 Tech Explorer passionate about innovation
+- 💼 Skilled in MERN stack, Python, and Machine Learning
+- 🌐 Building impactful real-world solutions
 
 ---
 
@@ -31,13 +31,13 @@
 ## 💼 Projects
 
 - 🛂 **Viza Verify** – Visa Management & Verification System (MERN)
-- 🍅 **Tomato** – Food Ordering Web App
-- 🌐 **Immigration Website** – Professional UI with Bootstrap
-- 🏥 **Lifelynk** – Doctor–Patient Management
-- 📊 **HR Analytics Dashboard**
-- 🧠 **Employee Turnover Prediction**
-- 🍷 **Wine Quality ML**
-- 🕵️ **Fraud Detection System**
+- 🍅 **Tomato** – Food Ordering Web App (Frontend + Cart + Filters)
+- 🌐 **Immigration Website** – Clean UI with Bootstrap
+- 🏥 **Lifelynk** – Doctor–Patient Management System
+- 📊 **HR Analytics Dashboard** *(Tableau)*
+- 🧠 **Employee Turnover Prediction** *(ML Model)*
+- 🍷 **Wine Quality Prediction** *(Regression ML)*
+- 🕵️ **Fraud Detection System** *(Classification with Python)*
 
 ---
 
@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-streak-stats.demolab.com?user=AmritCodeCraft&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -76,10 +76,10 @@
 ## 📜 License
 
 > © 2025 Amrit Kumar Prasad  
-> All rights reserved. Share with credit 🙌
+> All rights reserved. Feel free to fork and explore with credit 🙌
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE,BA55D3&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AA00FF,EE82EE&height=140&section=footer" />
 </p>
