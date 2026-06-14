@@ -4,14 +4,14 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=BB86FC&center=true&vCenter=true&multiline=false&width=600&lines=MCA+%40+IIIT+Ranchi+%7C+IIT+Patna+Joint+PG;MERN+Stack+%7C+Python+%7C+ML+%7C+Data+Analytics;Turning+ideas+into+scalable+solutions+%F0%9F%9A%80;Clean+Code.+Real+Impact.+No+Shortcuts.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=BB86FC&center=true&vCenter=true&multiline=false&width=600&lines=MCA+%40+IIT+Patna+%26+IIIT+Ranchi;MERN+Stack+%7C+Python+%7C+ML+%7C+Data+Analytics;Crafting+scalable+solutions+with+clean+code+%F0%9F%9A%80;Turn+data+into+insights%2C+ideas+into+impact+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AmritCodeCraft&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=AmritCodeCraft&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/AmritCodeCraft?tab=followers">
-  <img src="https://img.shields.io/github/followers/AmritCodeCraft?label=Followers&style=for-the-badge&color=7B2FBE&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/github/followers/AmritCodeCraft?label=Followers&style=for-the-badge&color=7B2FBE&labelColor=1a1a2e" alt="Followers" />
 </a>
 
 </div>
@@ -25,34 +25,33 @@
 ### 👾 Who Am I?
 
 ```yaml
-name     : Amrit Kumar Prasad
-alias    : AmritCodeCraft
-degree   : MCA — Joint PG Programme
-institutes:
-  - IIIT Ranchi
-  - IIT Patna (Collaborative)
-roles    :
-  - Full Stack Developer (MERN)
-  - Data Analyst & ML Engineer
-  - Problem Solver & Builder
-currently: Building real-world projects
-passion  : Clean code. Smarter systems.
+name      : Amrit Kumar Prasad
+alias     : AmritCodeCraft
+education : MCA — IIT Patna & IIIT Ranchi
+domain    : Full Stack • Data • ML
+focus     :
+  - Build scalable MERN applications
+  - Transform raw data into insights
+  - Solve real-world problems with code
+  - Create clean, maintainable solutions
+passion   : Innovation × Clean Code
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🧭 Current Focus
+### 🧭 Current Velocity
 
 ```python
-goals = {
-  "build"   : "Scalable MERN + ML apps",
-  "learn"   : ["System Design", "MLOps"],
-  "solve"   : "Data-driven real problems",
-  "explore" : "AI × Full Stack intersection",
+current_state = {
+  "building"  : "Production-ready MERN apps",
+  "learning"  : ["System Design", "MLOps", "DSA"],
+  "exploring" : "AI × Full Stack ecosystem",
+  "solving"   : "Complex data problems",
+  "mindset"   : "First solve, then code"
 }
 
-print("Let's build something meaningful.")
+print("✨ Let's create something extraordinary")
 ```
 
 </td>
@@ -63,7 +62,7 @@ print("Let's build something meaningful.")
 
 <div align="center">
 
-## ⚡ Tech Arsenal
+## 🔥 Tech Stack — Fully Loaded
 
 </div>
 
@@ -71,32 +70,32 @@ print("Let's build something meaningful.")
 <tr>
 <td align="center" width="33%">
 
-**🌐 Frontend**
+**🎨 Frontend Mastery**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-**⚙️ Backend & DB**
+**⚙️ Backend & Infrastructure**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-7B2FBE?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </td>
 <td align="center" width="33%">
 
-**🧠 Data & ML**
+**🧠 Data Science & ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -111,7 +110,7 @@ print("Let's build something meaningful.")
 
 <div align="center">
 
-**🛠️ Tools & Platforms**
+**🛠️ Developer Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -127,7 +126,7 @@ print("Let's build something meaningful.")
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 Showcase — Real-World Solutions
 
 </div>
 
@@ -137,58 +136,64 @@ print("Let's build something meaningful.")
 <td width="50%" valign="top">
 
 ### 🛂 Viza Verify
-> **Visa Management System — MERN Stack**
+**Visa Management System — MERN Stack**
 
-End-to-end visa application platform with document tracking, status management, and admin dashboard. Role-based access for applicants and officials.
+End-to-end visa application platform with intelligent document tracking, real-time status management, and comprehensive admin dashboard. Role-based access control for applicants and officials.
 
-`MongoDB` `Express` `React` `Node.js` `JWT`
+**Stack:** MongoDB • Express • React • Node.js • JWT  
+**Features:** OAuth, File uploads, Status tracking, Analytics
 
 ---
 
-### 🍅 Tomato — Food Ordering App
-> **Full Stack Food Delivery Platform**
+### 🍅 Tomato — Food Ordering
+**Full Stack Food Delivery Platform**
 
-Real-time food ordering with cart management, payment integration, and order tracking. Clean UI with responsive design.
+Real-time food ordering experience with dynamic cart management, seamless payment integration via Stripe, and live order tracking. Responsive UI across all devices.
 
-`React` `Node.js` `MongoDB` `Stripe API`
+**Stack:** React • Node.js • MongoDB • Stripe API  
+**Features:** Order tracking, Reviews, Payment processing, Notifications
 
 ---
 
 ### 🏥 Lifelynk
-> **Doctor–Patient Record Management**
+**Healthcare Record Management**
 
-Secure healthcare platform linking doctors and patients. Appointment booking, prescriptions, and medical history management.
+Secure healthcare platform connecting doctors and patients. Features appointment scheduling, digital prescriptions, complete medical history, and role-based dashboards.
 
-`MERN` `REST API` `Auth` `Dashboard`
+**Stack:** MERN • REST API • Auth • Responsive UI  
+**Features:** Appointment booking, Prescription management, Medical records
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 📊 HR Analytics Dashboard
-> **Data Visualization & Insights**
+**Data Visualization & Business Intelligence**
 
-Interactive HR dashboard for workforce analytics — attrition trends, performance metrics, and department KPIs visualized in Tableau.
+Interactive HR analytics platform visualizing workforce metrics — attrition trends, performance distributions, department KPIs, and predictive insights. Built with Python data engineering and Tableau visualization.
 
-`Python` `Pandas` `Tableau` `Excel`
+**Stack:** Python • Pandas • Tableau • Excel • Analytics  
+**Insights:** Attrition prediction, Department metrics, Trend analysis
 
 ---
 
 ### 🧠 Employee Turnover Prediction
-> **ML Classification Model**
+**ML Classification Model — Production Ready**
 
-Predicts attrition risk using employee data. Trained multiple classifiers with feature engineering and hyperparameter tuning.
+Advanced predictive model forecasting employee attrition risk using feature engineering and ensemble methods. Trained on imbalanced datasets with SMOTE for real-world accuracy.
 
-`Scikit-learn` `Pandas` `Logistic Regression` `RF`
+**Stack:** Scikit-learn • Pandas • Python • Model tuning  
+**Algorithms:** Logistic Regression, Random Forest, Gradient Boosting
 
 ---
 
-### 🕵️ Fraud Detection + 🍷 Wine ML
-> **Real-world ML Problem Solving**
+### 🕵️ Advanced ML Projects
+**Fraud Detection & Wine Quality Classification**
 
-Credit card fraud detection with imbalanced datasets (SMOTE). Wine quality classification using ensemble methods.
+Credit card fraud detection handling severe class imbalance with SMOTE. Wine quality prediction using ensemble voting classifiers with comprehensive EDA and feature engineering.
 
-`Python` `NumPy` `ML` `EDA` `Feature Engg.`
+**Stack:** Python • NumPy • Scikit-learn • Data preprocessing  
+**Focus:** EDA, Feature engineering, SMOTE, Model evaluation
 
 </td>
 
@@ -199,18 +204,19 @@ Credit card fraud detection with imbalanced datasets (SMOTE). Wine quality class
 
 <div align="center">
 
-## 📈 GitHub Analytics
+## 📈 GitHub Metrics & Activity
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=7b2fbe&text_color=c9d1d9&ring_color=bb86fc" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true&background=0d1117&stroke=bb86fc&ring=bb86fc&fire=ff6b6b&currStreakLabel=bb86fc" />
+<img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=7b2fbe&text_color=c9d1d9&ring_color=bb86fc&custom_title=GitHub%20Overview" />
 
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritCodeCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&langs_count=8" />
+<img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true&background=0d1117&stroke=bb86fc&ring=bb86fc&fire=ff6b6b&currStreakLabel=bb86fc" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmritCodeCraft&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=bb86fc&line=7b2fbe&point=bb86fc" />
+<img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritCodeCraft&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&langs_count=10" />
+
+<br/>
+
+<img width="95%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=AmritCodeCraft&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=bb86fc&line=7b2fbe&point=bb86fc&custom_title=Contribution%20Velocity" />
 
 </div>
 
@@ -218,9 +224,9 @@ Credit card fraud detection with imbalanced datasets (SMOTE). Wine quality class
 
 <div align="center">
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Recognition
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmritCodeCraft&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmritCodeCraft&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -228,30 +234,56 @@ Credit card fraud detection with imbalanced datasets (SMOTE). Wine quality class
 
 <div align="center">
 
-## 🌐 Let's Connect
+## 💡 Quick Stats
 
-<a href="mailto:kumaramrit945@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+| Metric | Value |
+|--------|-------|
+| **Primary Language** | JavaScript / Python |
+| **Specialization** | Full Stack MERN + ML/Data |
+| **Open Source** | Active Contributor |
+| **Problem Solving** | DSA + System Design |
+| **Workflow** | Agile • Clean Code • Documentation |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Build Together
+
+<a href="mailto:kumaramrit945@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/amritkumarprasad/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/amritkumarprasad/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/amrit.iitp/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://github.com/AmritCodeCraft" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://github.com/AmritCodeCraft">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.instagram.com/amrit.iitp/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7B2FBE?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+### 🎯 Philosophy
+
+> *"First, solve the problem. Then, write the code. Finally, optimize with passion."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" />
+**Building scalable systems • Writing maintainable code • Creating meaningful impact**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=twinkling" alt="Footer" />
 
 </div>
