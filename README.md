@@ -260,7 +260,7 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 &nbsp;
-<a href="https://amrit-portfolio.vercel.app/" target="_blank">
+<a href="https://amrit-kumar-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-4169E1?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
 </a>
 
