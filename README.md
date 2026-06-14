@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Amrit%20Kumar%20Prasad&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Problem%20Solver&descAlignY=62&descColor=bb86fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BB86FC,7B2FBE&height=220&section=header&text=Amrit%20Kumar%20Prasad&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Problem%20Solver&descAlignY=62&descColor=bb86fc" />
 
 <br/>
 
@@ -206,17 +206,27 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
 
 ## 📈 GitHub Metrics & Activity
 
-<img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=7b2fbe&text_color=c9d1d9&ring_color=bb86fc&custom_title=GitHub%20Overview" />
-
-<img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true&background=0d1117&stroke=bb86fc&ring=bb86fc&fire=ff6b6b&currStreakLabel=bb86fc" />
+<table width="100%">
+<tr>
+<td width="48%" align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=7b2fbe&text_color=c9d1d9&ring_color=bb86fc" />
+</td>
+<td width="4%"></td>
+<td width="48%" align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true&background=0d1117&stroke=bb86fc&ring=bb86fc&fire=ff6b6b&currStreakLabel=bb86fc" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img width="70%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritCodeCraft&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&langs_count=10" />
+<div align="center">
+<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritCodeCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&langs_count=10" />
+</div>
 
 <br/>
 
-<img width="95%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=AmritCodeCraft&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=bb86fc&line=7b2fbe&point=bb86fc&custom_title=Contribution%20Velocity" />
+<img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=AmritCodeCraft&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=bb86fc&line=7b2fbe&point=bb86fc" />
 
 </div>
 
@@ -267,10 +277,6 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
 <a href="https://www.instagram.com/amrit.iitp/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-7B2FBE?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
-</a>
 
 <br/><br/>
 
@@ -284,6 +290,16 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&animation=twinkling" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BB86FC,7B2FBE&height=140&section=footer&animation=twinkling" />
+
+---
+
+<div align="center">
+
+**© 2024 Amrit Kumar Prasad. All rights reserved.**
+
+*Crafted with ❤️ and powered by clean code*
+
+</div>
 
 </div>
