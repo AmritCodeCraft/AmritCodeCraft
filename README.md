@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a0033,75:2d0052,100:0a0a2e&height=280&section=header&text=AMRIT%20KUMAR%20PRASAD&fontColor=00FFCC&fontSize=52&fontAlignY=48&desc=Full%20Stack%20%7C%20ML%20%7C%20Data%20Science&descSize=20&descAlignY=65&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7F00FF,FF006E,00FFCC,FFD60A&height=280&section=header&text=AMRIT%20KUMAR%20PRASAD&fontColor=ffffff&fontSize=52&fontAlignY=48&desc=Full%20Stack%20%7C%20ML%20%7C%20Data%20Science&descSize=20&descAlignY=65&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&repeat=true&width=800&height=60&lines=🎓+MCA+@+IIIT+Ranchi+%7C+IIT+Patna;💻+Full+Stack+Developer+%2B+ML+Engineer;📊+Data+Science+%7C+Cloud+%7C+DevOps;🚀+Building+Scalable+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=700&color=FF006E&center=true&vCenter=true&repeat=true&width=800&height=60&lines=🎓+MCA+@+IIIT+Ranchi+%7C+IIT+Patna;💻+Full+Stack+Developer+%2B+ML+Engineer;📊+Data+Science+%7C+Cloud+%7C+DevOps;🚀+Building+Scalable+Solutions" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmritCodeCraft&color=00FFCC&style=flat-square&label=👁️+PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AmritCodeCraft&color=FF006E&style=flat-square&label=👁️+PROFILE+VIEWS)
 &nbsp;&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/AmritCodeCraft?label=👥+Followers&style=flat-square&color=7F00FF)](https://github.com/AmritCodeCraft?tab=followers)
 &nbsp;&nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/AmritCodeCraft?label=⭐+Stars&style=flat-square&color=FFD700)](https://github.com/AmritCodeCraft?tab=stars)
+[![GitHub stars](https://img.shields.io/github/stars/AmritCodeCraft?label=⭐+Stars&style=flat-square&color=FFD60A)](https://github.com/AmritCodeCraft?tab=stars)
 &nbsp;&nbsp;
-![](https://img.shields.io/badge/Focus-MERN%20%2B%20ML%20%2B%20Cloud-7F00FF?style=flat-square)
+![](https://img.shields.io/badge/Focus-MERN%20%2B%20ML%20%2B%20Cloud-FF006E?style=flat-square)
 
 </div>
 
@@ -211,13 +211,13 @@
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00FFCC&text_color=00FFCC&icon_color=7F00FF&ring_color=00FFCC" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=1a1a2e&title_color=FF006E&text_color=00FFCC&icon_color=FFD60A&ring_color=FF006E" />
 &nbsp;
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00FFCC&fire=FF6B6B&currStreakLabel=00FFCC" />
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=dracula&hide_border=true&background=1a1a2e&ring=FF006E&fire=FFD60A&currStreakLabel=00FFCC&sideLabels=00FFCC&dates=00FFCC" />
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritCodeCraft&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FFCC&text_color=00FFCC&langs_count=8" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritCodeCraft&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=FF006E&text_color=00FFCC&langs_count=8" />
 
 <br/><br/>
 
@@ -231,7 +231,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmritCodeCraft&theme=high-contrast&hide_border=true&bg_color=0d0d0d&color=00FFCC&line=7F00FF&point=ffffff&area=true&area_color=7F00FF20" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmritCodeCraft&theme=dracula&hide_border=true&bg_color=1a1a2e&color=00FFCC&line=FF006E&point=FFD60A&area=true&area_color=7F00FF30" />
 
 </div>
 
@@ -241,7 +241,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmritCodeCraft&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmritCodeCraft&theme=dracula&no-frame=false&no-bg=false&margin-w=8&row=2&column=4" />
 
 <br/><br/>
 
@@ -265,7 +265,7 @@
 [![LinkedIn](https://img.shields.io/badge/amritkumarprasad-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amritkumarprasad/)
 [![GitHub](https://img.shields.io/badge/AmritCodeCraft-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AmritCodeCraft)
 [![Instagram](https://img.shields.io/badge/@amrit.iitp-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amrit.iitp/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white)](https://amrit-kumar-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=vercel&logoColor=white)](https://amrit-kumar-portfolio.vercel.app/)
 
 <br/>
 
@@ -290,7 +290,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a0033,100:0a0a0a&height=160&section=footer&text=Keep%20Building.%20Keep%20Shipping.%20Keep%20Learning.&fontColor=00FFCC&fontSize=18&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF006E,7F00FF,00FFCC,FFD60A&height=160&section=footer&text=Keep%20Building.%20Keep%20Shipping.%20Keep%20Learning.&fontColor=ffffff&fontSize=18&fontAlignY=55" />
 
 </div>
 
