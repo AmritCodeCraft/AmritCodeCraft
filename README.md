@@ -1,18 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,30&height=220&section=header&text=Amrit%20Kumar%20Prasad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=62&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,30&height=200&section=header&text=Amrit%20Kumar%20Prasad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=58&descAlign=50&descSize=18" />
 
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&multiline=false&width=600&lines=MCA+%40+IIT+Patna+%7C+IIIT+Ranchi;Full+Stack+MERN+Developer;Data+Science+%26+ML+Enthusiast;Building+Scalable+Solutions)](https://github.com/AmritCodeCraft)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AmritCodeCraft&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/AmritCodeCraft?tab=followers">
-  <img src="https://img.shields.io/github/followers/AmritCodeCraft?label=Followers&style=for-the-badge&color=4169E1&labelColor=1a1a2e" alt="Followers" />
-</a>
 
 </div>
 
@@ -284,16 +276,12 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,30&height=140&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,30&height=140&section=footer&animation=twinkling" />
 
 ---
-
-<div align="center">
 
 **© 2026 Amrit Kumar Prasad. All rights reserved.**
 
 *Crafted with ❤️ and powered by clean code*
-
-</div>
 
 </div>
