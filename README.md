@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BB86FC,7B2FBE&height=220&section=header&text=Amrit%20Kumar%20Prasad&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Problem%20Solver&descAlignY=62&descColor=bb86fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0066FF,9933FF&height=220&section=header&text=Amrit%20Kumar%20Prasad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=62&descAlign=50" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=BB86FC&center=true&vCenter=true&multiline=false&width=600&lines=MCA+%40+IIT+Patna+%26+IIIT+Ranchi;MERN+Stack+%7C+Python+%7C+ML+%7C+Data+Analytics;Crafting+scalable+solutions+with+clean+code+%F0%9F%9A%80;Turn+data+into+insights%2C+ideas+into+impact+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0066FF&center=true&vCenter=true&multiline=false&width=600&lines=MCA+%40+IIT+Patna+%7C+IIIT+Ranchi;Full+Stack+MERN+Developer;Data+Science+%26+ML+Enthusiast;Building+Scalable+Solutions)](https://github.com/AmritCodeCraft)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AmritCodeCraft&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AmritCodeCraft&color=0066FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
 <a href="https://github.com/AmritCodeCraft?tab=followers">
-  <img src="https://img.shields.io/github/followers/AmritCodeCraft?label=Followers&style=for-the-badge&color=7B2FBE&labelColor=1a1a2e" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/AmritCodeCraft?label=Followers&style=for-the-badge&color=0066FF&labelColor=1a1a2e" alt="Followers" />
 </a>
 
 </div>
@@ -89,7 +89,7 @@ print("✨ Let's create something extraordinary")
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-7B2FBE?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0066FF?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT Auth](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </td>
@@ -170,7 +170,7 @@ Secure healthcare platform connecting doctors and patients. Features appointment
 ### 📊 HR Analytics Dashboard
 **Data Visualization & Business Intelligence**
 
-Interactive HR analytics platform visualizing workforce metrics — attrition trends, performance distributions, department KPIs, and predictive insights. Built with Python data engineering and Tableau visualization.
+Interactive HR analytics platform visualizing workforce metrics — attrition trends, performance distributions, department KPIs, and predictive insights. Built with Python data engineering and Tableau.
 
 **Stack:** Python • Pandas • Tableau • Excel • Analytics  
 **Insights:** Attrition prediction, Department metrics, Trend analysis
@@ -209,11 +209,11 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
 <table width="100%">
 <tr>
 <td width="48%" align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=7b2fbe&text_color=c9d1d9&ring_color=bb86fc" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmritCodeCraft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0066FF&icon_color=9933FF&text_color=ffffff" alt="GitHub Stats" />
 </td>
 <td width="4%"></td>
 <td width="48%" align="center">
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true&background=0d1117&stroke=bb86fc&ring=bb86fc&fire=ff6b6b&currStreakLabel=bb86fc" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AmritCodeCraft&theme=tokyonight&hide_border=true&background=0d1117&stroke=0066FF&ring=0066FF&fire=ff6b6b&currStreakLabel=0066FF" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -221,22 +221,12 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
 <br/>
 
 <div align="center">
-<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritCodeCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&langs_count=10" />
+<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritCodeCraft&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0066FF&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <br/>
 
-<img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=AmritCodeCraft&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=bb86fc&line=7b2fbe&point=bb86fc" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Achievements & Recognition
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmritCodeCraft&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&row=1&column=7" alt="GitHub Trophies" />
+<img width="100%" height="auto" src="https://github-readme-activity-graph.vercel.app/graph?username=AmritCodeCraft&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0066FF&line=9933FF&point=0066FF&area_color=1a1a2e" alt="Contribution Graph" />
 
 </div>
 
@@ -277,6 +267,10 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
 <a href="https://www.instagram.com/amrit.iitp/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+&nbsp;
+<a href="https://amrit-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0066FF?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+</a>
 
 <br/><br/>
 
@@ -290,13 +284,13 @@ Credit card fraud detection handling severe class imbalance with SMOTE. Wine qua
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=BB86FC,7B2FBE&height=140&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0066FF,9933FF&height=140&section=footer&animation=twinkling" />
 
 ---
 
 <div align="center">
 
-**© 2024 Amrit Kumar Prasad. All rights reserved.**
+**© 2026 Amrit Kumar Prasad. All rights reserved.**
 
 *Crafted with ❤️ and powered by clean code*
 
