@@ -63,7 +63,7 @@
 <p align="center">
   <a href="mailto:kumaramrit945@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/amritkumarprasad/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/coded.elixir/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.instagram.com/amrit.iitp/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://github.com/AmritCodeCraft"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
